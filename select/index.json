@@ -1,0 +1,152 @@
+{
+  "version": 1,
+  "base_track": "RPG",
+  "base_artist": "SEKAI NO OWARI",
+  "createdAt": "2025-12-15T17:09:54.902895Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "RPG",
+      "artist": "FOUR GET ME A NOTS",
+      "has_synced": false,
+      "path": "select/01_RPG_FOUR_GET_ME_A_NOTS.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "RPG",
+      "artist": "School Food Punishment",
+      "has_synced": true,
+      "path": "select/02_RPG_School_Food_Punishment.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "RPG",
+      "artist": "School Food Punishment",
+      "has_synced": false,
+      "path": "select/03_RPG_School_Food_Punishment.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "RPG",
+      "artist": "School Food Punishment",
+      "has_synced": true,
+      "path": "select/04_RPG_School_Food_Punishment.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "RPG",
+      "artist": "SEKAI NO OWARI",
+      "has_synced": true,
+      "path": "select/05_RPG_SEKAI_NO_OWARI.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Rpg",
+      "artist": "Lefty Hand Cream",
+      "has_synced": true,
+      "path": "select/06_Rpg_Lefty_Hand_Cream.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Sour OG RPG",
+      "artist": "Hospital Bracelet",
+      "has_synced": false,
+      "path": "select/07_Sour_OG_RPG_Hospital_Bracelet.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "RPG (feat. 6lack)",
+      "artist": "Kehlani feat. 6LACK",
+      "has_synced": true,
+      "path": "select/08_RPG_(feat._6lack)_Kehlani_feat._6LACK.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "RPG (feat. 6lack)",
+      "artist": "Kehlani",
+      "has_synced": true,
+      "path": "select/09_RPG_(feat._6lack)_Kehlani.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "RPG",
+      "artist": "Sekai No Owari",
+      "has_synced": true,
+      "path": "select/10_RPG_Sekai_No_Owari.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "RPG",
+      "artist": "Kaaris",
+      "has_synced": true,
+      "path": "select/11_RPG_Kaaris.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "RPG",
+      "artist": "Kill Bill: The Rapper feat. Rav",
+      "has_synced": true,
+      "path": "select/12_RPG_Kill_Bill__The_Rapper_feat._Rav.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "RPG (feat. Rav)",
+      "artist": "Kill Bill: The Rapper; Rav",
+      "has_synced": true,
+      "path": "select/13_RPG_(feat._Rav)_Kill_Bill__The_Rapper;_Rav.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "RPG",
+      "artist": "Mitsuko Horie",
+      "has_synced": true,
+      "path": "select/14_RPG_Mitsuko_Horie.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "RPG [ORT]",
+      "artist": "堀江美都子",
+      "has_synced": true,
+      "path": "select/15_RPG_[ORT]_堀江美都子.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "RPG",
+      "artist": "JC Reyes feat. Hades66",
+      "has_synced": true,
+      "path": "select/16_RPG_JC_Reyes_feat._Hades66.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "JC REYES FT HADES 66 - RPG",
+      "artist": "JC Reyes",
+      "has_synced": true,
+      "path": "select/17_JC_REYES_FT_HADES_66_-_RPG_JC_Reyes.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "RPG",
+      "artist": "SEKAI NO OWARI",
+      "has_synced": false,
+      "path": "select/pl_01_RPG_SEKAI_NO_OWARI.txt"
+    }
+  ]
+}
